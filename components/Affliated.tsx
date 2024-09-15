@@ -1,4 +1,4 @@
-"use client"
+
 import React from 'react'
 import ss from "../public/images/23.png";
 import { Button } from './ui/button';

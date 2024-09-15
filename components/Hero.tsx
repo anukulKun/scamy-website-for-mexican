@@ -1,4 +1,4 @@
-"use client"
+
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Smartphone, DollarSign, ShieldCheck, Globe, HeadphonesIcon, Award } from "lucide-react"
